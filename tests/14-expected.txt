@@ -1,0 +1,8 @@
+Received 16000000 damage in total.
+Received 16040000 damage in total, section {0, 2000, 4000, 2001} collapsed.
+Received 20036001 damage in total.
+Received 24032002 damage in total.
+Received 28028003 damage in total.
+Received 32024004 damage in total.
+Received 48020004 damage in total.
+Reactor1 exploded! Ship is destroyed.

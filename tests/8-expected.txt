@@ -1,0 +1,7 @@
+Received 62400 damage in total.
+Received 72000 damage in total.
+Received 84100 damage in total.
+Received 93220 damage in total.
+Received 129320 damage in total.
+Received 255324 damage in total, section {75, 56, 364, 165} collapsed.
+Because of that H20 exploded! Ship is destroyed.

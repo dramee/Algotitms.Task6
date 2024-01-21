@@ -1,0 +1,25 @@
+Received 6390400 damage in total.
+Received 11182000 damage in total.
+Received 14375600 damage in total.
+Received 15972000 damage in total.
+Received 22362400 damage in total.
+Received 27154000 damage in total.
+Received 30347600 damage in total.
+Received 31944000 damage in total.
+Received 38334400 damage in total.
+Received 43126000 damage in total.
+Received 46319600 damage in total.
+Received 47916000 damage in total.
+Received 54306400 damage in total.
+Received 59098000 damage in total.
+Received 62291600 damage in total.
+Received 63888000 damage in total.
+Received 70278400 damage in total.
+Received 75070000 damage in total.
+Received 78263600 damage in total.
+Received 79860000 damage in total.
+Received 86250400 damage in total.
+Received 91042000 damage in total.
+Received 94235600 damage in total.
+Received 95832000 damage in total.
+Received 102222400 damage in total, total damage limit 100000000 exceeded. Ship is destroyed.

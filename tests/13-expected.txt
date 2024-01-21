@@ -1,0 +1,4 @@
+Received 42000 damage in total.
+Received 52000 damage in total.
+Received 62000 damage in total.
+Wing1 exploded! Ship is destroyed.

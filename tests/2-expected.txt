@@ -1,0 +1,5 @@
+Received 48 damage in total.
+Received 96 damage in total.
+Received 144 damage in total.
+Received 192 damage in total.
+Received 240 damage in total, total damage limit 200 exceeded. Ship is destroyed.

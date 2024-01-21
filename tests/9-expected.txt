@@ -1,0 +1,10 @@
+Received 1000 damage in total, section {240, 30, 250, 40} collapsed.
+Received 1000 damage in total.
+Received 2000 damage in total, section {260, 50, 270, 60} collapsed.
+Received 2000 damage in total.
+Received 3000 damage in total, section {260, 70, 270, 80} collapsed.
+Received 3000 damage in total.
+Received 4000 damage in total, section {260, 90, 270, 100} collapsed.
+Received 4000 damage in total.
+Received 5000 damage in total, section {260, 110, 270, 120} collapsed.
+And it was the last collapse the ship can handle. It was destroyed.

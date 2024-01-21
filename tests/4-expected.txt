@@ -1,0 +1,5 @@
+Received 75 damage in total.
+Received 150 damage in total.
+Received 225 damage in total.
+Received 300 damage in total.
+Autogun exploded! Ship is destroyed.

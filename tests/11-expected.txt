@@ -1,0 +1,16 @@
+Received 480000 damage in total.
+Received 6760000 damage in total.
+Received 7024000 damage in total, section {1880, 380, 2120, 600} collapsed.
+Received 10966200 damage in total.
+Received 10966200 damage in total.
+Received 17158400 damage in total.
+Received 17638400 damage in total.
+Received 23918400 damage in total.
+Received 24398400 damage in total.
+Received 30678400 damage in total.
+Received 30678400 damage in total.
+Received 34620600 damage in total.
+Received 34620600 damage in total.
+Received 40812800 damage in total.
+Received 41292800 damage in total.
+Received 47572800 damage in total.

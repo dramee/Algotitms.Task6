@@ -1,0 +1,9 @@
+Received 4 damage in total.
+Received 8 damage in total.
+Received 12 damage in total.
+Received 16 damage in total, section {4, 0, 6, 2} collapsed.
+Received 20 damage in total.
+Received 24 damage in total.
+Received 28 damage in total.
+Received 32 damage in total, section {4, 8, 6, 10} collapsed.
+And it was the last collapse the ship can handle. It was destroyed.

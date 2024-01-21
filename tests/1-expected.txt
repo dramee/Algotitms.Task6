@@ -1,0 +1,5 @@
+Received 20 damage in total.
+Received 29 damage in total.
+Received 45 damage in total, section {4, 2, 6, 4} collapsed.
+Received 61 damage in total, section {7, 0, 9, 2} collapsed.
+Because of that Reactor exploded! Ship is destroyed.
